@@ -1,0 +1,11 @@
+button {
+    padding: 5px 7px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 50px;
+    background-color: hsla(110, 50%, 48%, 1);
+    border-color: #707070;
+    color: #fff;
+    font-family: 'Fjalla One', sans-serif;
+    }
+    
